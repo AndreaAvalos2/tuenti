@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #0c8bcb;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.Formulario
+{
+    background-color: white;
+    width: 98%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    height: 35rem;
+    border-radius: .5px;
+    height: 40rem;
+}
+.Formulario .titulo1
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo1 >h2
+{
+    margin-left: 50px;
+    width: 30%;
+}
+.titulo1 .camposObli >h4
+{
+    margin-right: 1060px;
+    color: gray;
+    width: 30%;
+}
+ .esp #Idioma
+{
+    color: #0c8bcb; 
+    border: 0px;
+    margin-left: -130px;
+    
+}
+.FormularioIn
+{
+    margin-left: 220px;
+    margin-top: 20px;
+    
+}
+.FormularioIn input[type = submit]
+{
+   margin-top: 28px;
+   margin-left: 990px;
+   background-color: #0c8bcb;
+   color: #fff;
+   height: 45px;
+   border-radius: .4rem;
+   font-size: 14px;
+   font-weight: bold;
+   cursor: pointer;
+}
+ #condiciones
+{
+    color: #0c8bcb;
+    text-decoration: none;
+}
+h4
+{
+    color: darkgray;
+    font-size: 15px;
+}
+#txtCorreo
+{
+    margin-top: 30px;
+}
+.genero p
+{
+    margin-top: 30px;
+}
+
+.nombre input[type=text]
+{
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: .2rem;
+}
+.correo #txtCorreo
+{
+    height: 30px;
+    width: 293px;
+    border: 1px solid darkgray;
+    border-radius: .2rem;
+    margin-left: 20px;
+}
+.fecha
+{
+    margin-top: 30px;
+}
+.fecha h4
+{
+    margin-top: 0;
+    font-size: 13px;
+    margin-left: 155px;
+}
+.pass #txtContra
+{
+    margin-top: 5px;
+    height: 30px;
+    width: 273px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: .2rem;
+
+}
+
+#condiciones2
+{
+    color: #0c8bcb;
+   text-decoration: none;
+   font-size: 13px;
+   margin-left: 90px;
+}
+.num
+{
+    margin-top: 15px;
+}
+.num #Num
+{
+    width: 165px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: .2rem;
+}
+.num #Numero
+{
+    height: 35px;
+    border-radius: .2rem;
+}
+.terminos
+{
+    margin-top: 25px;
+}
